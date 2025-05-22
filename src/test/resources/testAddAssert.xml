@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite" verbose="1">
+    <test name="Add Category">
+        <classes>
+            <class name="Baitap.BT03_1.testAssert"></class>
+        </classes>
+    </test>
+</suite>
