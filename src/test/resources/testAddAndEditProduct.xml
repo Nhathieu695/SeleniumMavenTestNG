@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite" verbose="1">
+    <test name="Add Category">
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="Baitap.BT06.testcases.ProductTest"></class>
+        </classes>
+    </test>
+</suite>
